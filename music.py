@@ -10,8 +10,8 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Spotify API credentials
-CLIENT_ID = "349d45f233a44f31b4aa41a8a9d5e92e"
-CLIENT_SECRET = "b42401046af9496292e08e70e4ccf75a"
+CLIENT_ID = "ADD YOUR CLIENT_ID HERE"
+CLIENT_SECRET = "ADD YOUR CLIENT_SECRET HERE"
 
 # Initialize Spotify client
 def initialize_spotify_client():
@@ -207,4 +207,5 @@ def create_spotify_embed(track_id):
             style="border-radius: 12px;">
     </iframe>
     """
+
     return embed_html
