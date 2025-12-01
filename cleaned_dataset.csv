@@ -1,0 +1,564 @@
+track_id,track_name,artist,album,popularity,release_date
+3n3Ppam7vgaVa1iaRUc9Lp,Mr. Brightside,The Killers,Hot Fuss,87.0,2004-06-07
+5ChkMS8OtdzJeqyybCc9R5,Somebody Told Me,The Killers,Hot Fuss,74.0,2004-06-07
+0eGsygTp906u18L0Oimnem,Mr. Blue Sky,Electric Light Orchestra,Out of the Blue,78.0,1977-10-03
+7qiZfU4dY1lWllzX7mPBI,Shape of You,Ed Sheeran,÷ (Deluxe),88.0,2017-01-06
+3ZCTVFBt2Brf31RLEnCkWJ,Castle on the Hill,Ed Sheeran,÷ (Deluxe),82.0,2017-01-06
+0sf8kmJhb6WKU8OuKFXhQ,Photograph,Ed Sheeran,x (Deluxe Edition),85.0,2014-06-23
+2tVL4IgEWpHpQ8a4pVDkTf,Thinking Out Loud,Ed Sheeran,x (Deluxe Edition),86.0,2014-06-23
+7KXjTSCq5nL1LoYtL7XAwS,Someone You Loved,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,89.0,2019-05-17
+4Cy0NHJ8Gh0xMdwyM9RkQm,Before You Go,Lewis Capaldi,Divinely Uninspired To A Hellish Extent,84.0,2019-11-19
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,The Weeknd,After Hours,94.0,2020-03-20
+2Ch7LmS7r2Gy2kc64wv3Bz,Save Your Tears,The Weeknd,After Hours,91.0,2020-03-20
+5QO79kh1waicV47BqGRL3g,Never Gonna Give You Up,Rick Astley,Whenever You Need Somebody,79.0,1987-11-12
+3JOVTQ5h8HGFnDdp4VT3MP,Bohemian Rhapsody,Queen,A Night at the Opera,87.0,1975-11-21
+4u7EnebtmKWzUH433cf5Qv,Don't Stop Me Now,Queen,Jazz,82.0,1978-11-10
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,92.0,2019-03-29
+6Gg7CRW8VFgPcGP6xJJiRQ,when the party's over,Billie Eilish,WHEN WE ALL FALL ASLEEP WHERE DO WE GO?,84.0,2019-03-29
+0DiWol3AO6WpXZgp0goxAV,One Dance,Drake,Views,87.0,2016-04-29
+3CA9pLiwRIGtUBiMjbZmRw,Hotline Bling,Drake,Views,85.0,2015-10-19
+3ee8Jmje8o58CHK66QrVC2,Levitating,Dua Lipa,Future Nostalgia,90.0,2020-03-27
+5Rl7WddDIMb77e5vDjRg0W,Don't Start Now,Dua Lipa,Future Nostalgia,88.0,2019-11-01
+4xdBrk0nFZaP54vvZj8QHb,Heat Waves,Glass Animals,Dreamland,87.0,2020-08-07
+02MWAaffLxlfxAUY7c5dvx,The Less I Know The Better,Tame Impala,Currents,85.0,2015-07-17
+0e7ipj03S05BNilyu5bRzt,Smells Like Teen Spirit,Nirvana,Nevermind,86.0,1991-09-24
+4xkOaSrkexMciUUogZKVTS,Come As You Are,Nirvana,Nevermind,82.0,1991-09-24
+1mea3bSkSGXuIRvnydlB5b,Karma Police,Radiohead,OK Computer,79.0,1997-06-16
+5ygDXis42ncn6kYG14lEVG,Creep,Radiohead,Pablo Honey,85.0,1993-02-22
+37ZJ0p5Jm13JPevGcx4SkF,Lose Yourself,Eminem,8 Mile,88.0,2002-10-28
+5Z01UMMf7V1o0MzF86s6WJ,Without Me,Eminem,The Eminem Show,86.0,2002-05-26
+3DamFFqW32WihKkTVlwTYQ,Sweet Child O' Mine,Guns N' Roses,Appetite for Destruction,84.0,1987-07-21
+7ouMYWpwJ422jRcDASZB7P,Stairway to Heaven,Led Zeppelin,Led Zeppelin IV,82.0,1971-11-08
+2zYzyRzz6pRmhPzyfMEC8s,Hotel California,Eagles,Hotel California,85.0,1976-12-08
+4FqZrpqhAyhDHSF2nE6oI8,Wonderwall,Oasis,What's the Story Morning Glory,86.0,1995-10-02
+6b2RcmUt1g9N9mQ3CbjX2Y,Champagne Supernova,Oasis,What's the Story Morning Glory,78.0,1995-10-02
+0hCB0YR03f6AmQaHbwWDe8,With or Without You,U2,The Joshua Tree,81.0,1987-03-09
+6wpGqhRvJGNNXwWlPmkMyO,I Still Haven't Found What I'm Looking For,U2,The Joshua Tree,76.0,1987-03-09
+1JSTJqkT5qHq8MDJnJbRE1,Sweet Dreams,Eurythmics,Sweet Dreams,79.0,1983-01-04
+2WfaOiMkCvy7F5fcp2zZ8L,Take On Me,a-ha,Hunting High and Low,84.0,1985-06-01
+4gphxUgq0JSFv2BCLhNDiE,Every Breath You Take,The Police,Synchronicity,83.0,1983-06-17
+5CMjjywI0eZMixPeqNd75R,Don't Stop Believin',Journey,Escape,85.0,1981-07-20
+560EuzsucrY0V2rOoQEMkz,Livin' on a Prayer,Bon Jovi,Slippery When Wet,84.0,1986-08-18
+4bHsxqR3GMrXTxEPLuK5ue,Billie Jean,Michael Jackson,Thriller,88.0,1982-11-30
+5ChkMS8OtdzJeqyybCc9R5,Beat It,Michael Jackson,Thriller,86.0,1982-11-30
+3BovdzfaX4jb5KFQwoPfAw,Thriller,Michael Jackson,Thriller,87.0,1982-11-30
+2YRybHRbpRZMdJMT0MqCfg,Like a Prayer,Madonna,Like a Prayer,80.0,1989-03-03
+2VxeLyX666F8uXCJ0dZF8B,Vogue,Madonna,I'm Breathless,77.0,1990-05-22
+6JV2JOEocMgcZxwJT6ZoeF,Purple Rain,Prince,Purple Rain,81.0,1984-06-25
+1DFixLWuPkv3KT3TnV35m3,When Doves Cry,Prince,Purple Rain,79.0,1984-06-25
+0G21yYKMZoHa30cYVi1iA8,I Wanna Dance with Somebody,Whitney Houston,Whitney,82.0,1987-06-02
+2tUBqZG2AbRi7Q0BIrVrEj,I Will Always Love You,Whitney Houston,The Bodyguard,86.0,1992-11-03
+1Cv1raAN4JpLM3iIiYT0Mz,Tainted Love,Soft Cell,Non-Stop Erotic Cabaret,78.0,1981-11-23
+6PUIzLesXPnAFNTrd7ROv3,Blue Monday,New Order,Power Corruption & Lies,77.0,1983-05-02
+0gplL1WMoJ6iYaPgMCL0gX,Careless Whisper,George Michael,Make It Big,83.0,1984-10-15
+5a1iz510sv2W9Dt1MvFd5R,Faith,George Michael,Faith,80.0,1987-10-30
+3iVcZ5G6tvkXZkZKlMpIUs,Girls Just Want to Have Fun,Cyndi Lauper,She's So Unusual,81.0,1983-10-14
+7nNtMX37u57NlyQSN7wPLi,Africa,Toto,Toto IV,84.0,1982-04-08
+1HNE2PX20xawR8SDBSxp8M,Eye of the Tiger,Survivor,Eye of the Tiger,83.0,1982-06-08
+4i6cwNY6oIsPLMlZtzKQTz,Total Eclipse of the Heart,Bonnie Tyler,Faster Than the Speed of Night,82.0,1983-02-11
+2nLtzopw4rPReszdYBJU6h,I Want to Break Free,Queen,The Works,79.0,1984-02-27
+1AhDOtG9vPSOmsWgNW0l5V,Under Pressure,Queen,Hot Space,81.0,1981-10-26
+3cfOd4CMv2snFaKAnMdnvK,Another One Bites the Dust,Queen,The Game,83.0,1980-06-30
+7qEHsqek33rTcFNT9PFqLf,Yesterday,The Beatles,Help!,85.0,1965-08-06
+1dfWMJaqgXU9exoFdBpCSh,Hey Jude,The Beatles,Hey Jude,86.0,1968-02-26
+3BQHpFgAp4l80e1XslIjNI,Let It Be,The Beatles,Let It Be,84.0,1970-05-08
+21jGcNKet2qwijlDFuPiPb,Come Together,The Beatles,Abbey Road,83.0,1969-09-26
+12QeYqdFYDS9RORCNzfVTR,Here Comes the Sun,The Beatles,Abbey Road,85.0,1969-09-26
+3AJwUDP919kvQ9QcozQPxg,Imagine,John Lennon,Imagine,87.0,1971-09-09
+5EWPGh7jbTNO2wakv8LjUI,Sweet Caroline,Neil Diamond,Sweet Caroline,82.0,1969-09-16
+0BRjO6ga9RKCKjfDqeFgWV,Piano Man,Billy Joel,Piano Man,83.0,1973-11-02
+32OlwWuMpZ6b0aN2RZOeMS,Uptown Girl,Billy Joel,An Innocent Man,80.0,1983-08-08
+4Nd5HJn4EExnLmHtClk4QV,Brown Eyed Girl,Van Morrison,Blowin' Your Mind!,81.0,1967-09-01
+0lPQp2DnOlx26HrSAfhaMj,Rocket Man,Elton John,Honky Château,82.0,1972-05-19
+3gdewACMIVMEWVbyb8O9sY,Your Song,Elton John,Elton John,80.0,1970-04-10
+6HSXNV0b1wFRzj0vR83kgs,Tiny Dancer,Elton John,Madman Across the Water,81.0,1971-11-05
+7iN1s7xHE4ifF5povM6A48,September,Earth Wind & Fire,The Best of Earth Wind & Fire Vol. 1,85.0,1978-11-18
+2grjqo0Frpf2okIBiifQKs,Let's Stay Together,Al Green,Let's Stay Together,78.0,1971-12-01
+5IVuqXILoxVWvWEPm82Jxr,Superstition,Stevie Wonder,Talking Book,82.0,1972-10-24
+0ct6r3EGTcMLPtrXHDvVjc,Sir Duke,Stevie Wonder,Songs in the Key of Life,79.0,1976-09-28
+4TTV7EcfroWQlgBS82J9mu,Respect,Aretha Franklin,I Never Loved a Man the Way I Love You,84.0,1967-02-10
+7s25THrKz86DM225dOYwnr,I Say a Little Prayer,Aretha Franklin,Aretha Now,78.0,1968-06-14
+4gMgiXfqyzZLMhsksGmbQV,Tum Hi Ho,Arijit Singh,Aashiqui 2,92.0,2013-04-08
+3JZIBtRHGm1GlSDpbR4A9p,Channa Mereya,Arijit Singh,Ae Dil Hai Mushkil,88.0,2016-10-28
+5xXqyjLicvEpch72qEryIT,Kal Ho Naa Ho,Sonu Nigam,Kal Ho Naa Ho,89.0,2003-11-07
+6zSpb8dQRaw0M1dK0T2ybF,Tujhe Dekha To,Kumar Sanu,Dilwale Dulhania Le Jayenge,91.0,2019-10-20
+1FeWiKfSJwYJdW2RmDJBKQ,Pehla Nasha,Udit Narayan,Jo Jeeta Wohi Sikandar,87.0,1992-05-22
+4S8Y9FWo0fj8WvLyqmLqVh,Chaiyya Chaiyya,Sukhwinder Singh,Dil Se,85.0,1998-08-21
+2YHJzMo04DVt0jJ4TW8VmP,Dil Se Re,A.R. Rahman,Dil Se,83.0,1998-08-21
+7vGuf3Y35ir4WhEHQNXJdD,Jai Ho,A.R. Rahman,Slumdog Millionaire,86.0,2008-11-17
+4DMKwE0D8eUVRkALwyJWQT,Maa Tujhe Salaam,A.R. Rahman,Vande Mataram,84.0,1997-09-15
+3xKJpqUdZM5Y2LQWJSD6fZ,Vande Mataram,A.R. Rahman,Vande Mataram,82.0,1997-09-15
+1WkMMavIMc4JZ8cfMmxHkI,Tere Bina,A.R. Rahman,Guru,85.0,2007-01-12
+5xyMw3tBgzBjNlGmZqNWPh,Barso Re,Shreya Ghoshal,Guru,83.0,2007-01-12
+2pqjVXqnlVPn5mJ2KLd1rO,Kabira,Tochi Raina,Yeh Jawaani Hai Deewani,87.0,2013-05-31
+4mFyVs2K2pflUXIAKI8Xxl,Badtameez Dil,Benny Dayal,Yeh Jawaani Hai Deewani,86.0,2013-05-31
+3gZYBhpZvjkwrYzPFHCPuN,Subhanallah,Sreerama Chandra,Yeh Jawaani Hai Deewani,84.0,2013-05-31
+5VuBvWNPWkULPfC0b6u3P6,Tune Jo Na Kaha,Mohit Chauhan,New York,85.0,2009-06-26
+6rWXDpKxbFl3MqDxKzFgLY,Pee Loon,Mohit Chauhan,Once Upon A Time In Mumbai,88.0,2010-07-30
+2YhFbHWAkC48c93fLqPuFr,Masakali,Mohit Chauhan,Delhi 6,86.0,2009-02-20
+3bMVSEkpSz1qNBiJLZLxPP,Zara Sa,KK,Jannat,87.0,2008-05-16
+4nLvPfhtG6wUDKEbYnXEAz,Khuda Jaane,KK,Bachna Ae Haseeno,86.0,2008-08-15
+2pYGJxHA0e6L4PnELWDvsh,Ajab Si,KK,Om Shanti Om,88.0,2007-11-09
+6jHBXL1D6KdyA3gN0ERhHt,Tu Hi Meri Shab Hai,KK,Gangster,85.0,2006-04-28
+1WwkHgDH6bGHHXRSqKqRcY,Aankhon Mein Teri,KK,Om Shanti Om,87.0,2007-11-09
+4RnLD2SqDd6CWVHSU7QT1G,Besabriyaan,Armaan Malik,M.S. Dhoni: The Untold Story,86.0,2016-09-30
+3QaXJHMOPztGPqtxfeCkA5,Bol Do Na Zara,Armaan Malik,Azhar,84.0,2016-05-13
+5MKyDM3r0WsXtZN3jNv3sE,Naina,Arijit Singh,Khoobsurat,87.0,2014-09-19
+7LhZPSxSMD3bXzHH2W34ql,Raabta,Arijit Singh,Agent Vinod,88.0,2012-03-23
+2fQhKpMwbMHBuF4vKUjg9L,Hawayein,Arijit Singh,Jab Harry Met Sejal,89.0,2017-08-04
+3rCMkLdBkPeHXBqJG6O5c6,Gerua,Arijit Singh,Dilwale,90.0,2015-12-18
+4sVzWKJsHJ8OiXzLbQPZ2e,Samjhawan,Arijit Singh,Humpty Sharma Ki Dulhania,88.0,2014-07-11
+1uNWFxQvpL6hzEcD2WqFaF,Bolna,Arijit Singh,Kapoor & Sons,87.0,2016-03-18
+2KGnJuLmv5t5l2RdqZz9xX,Soch Na Sake,Arijit Singh,Airlift,86.0,2016-01-22
+3yPzXvXJLTl8yZdmKMpFD8,Muskurane,Arijit Singh,CityLights,89.0,2014-05-30
+4kHPEL9vSKHD6wCv3Y8fL4,Suno Na Sangemarmar,Arijit Singh,Youngistaan,85.0,2014-03-28
+5DxQg9TJvGK0mLi4MG3XhB,Phir Le Aya Dil,Arijit Singh,Barfi!,88.0,2012-09-14
+2WnHMBQYJVZTfkPZxKnhKz,Ae Dil Hai Mushkil,Arijit Singh,Ae Dil Hai Mushkil,90.0,2016-10-28
+3hXHYGqBchzC6oS5D7YP5x,Shayad,Arijit Singh,Love Aaj Kal,87.0,2020-02-14
+4oPTqx7MLkl7DLcXn9yVp1,Kabhi Jo Baadal Barse,Arijit Singh,Jackpot,86.0,2013-12-13
+5rQVZcGLKdMvXQJxW7LNvL,Har Kisi Ko,Arijit Singh,Boss,85.0,2013-10-16
+1yVRYXqJPsWsJONbJ5aTsS,Judaai,Arijit Singh,Badlapur,84.0,2015-02-20
+3NM6eGJE7xvCY5xq7LdhkE,Sanam Re,Arijit Singh,Sanam Re,88.0,2016-02-12
+4xJWwP8NJjHfPrUc51NW7C,Milne Hai Mujhse Aayi,Arijit Singh,Aashiqui 2,90.0,2013-04-08
+2jJgPxBV3E6L3T5kXN0vqY,Sunn Raha Hai,Arijit Singh,Aashiqui 2,91.0,2013-04-08
+5DuIvNFKqkEKXNF6Hs0Gj9,Bhula Dena,Arijit Singh,Aashiqui 2,88.0,2013-04-08
+1JwVKdqXS8xhQcNJ9BvhLz,Enna Sona,Arijit Singh,OK Jaanu,87.0,2017-01-13
+2mQfGZ4l8N4kNPJ6CZdzJl,Dua Karo,Arijit Singh,Street Dancer 3D,84.0,2020-01-24
+3KDqFh8PJ0hVZZKVJnHKqP,Khairiyat,Arijit Singh,Chhichhore,89.0,2019-09-06
+4nWQqCQtO1MSdqVfPYsVwN,Main Rahoon Ya Na Rahoon,Armaan Malik,Emraan Hashmi Hits,86.0,2015-04-24
+2YmVzxnKXf0rPnV4Bqc6LD,Baarish,Ash King,Yaariyan,85.0,2014-01-10
+3lHXmkDXXH7gCW6HGZxzLP,Galliyan,Ankit Tiwari,Ek Villain,90.0,2014-06-27
+4yD1GKx9tJJOmX5KPGWZ4j,Soch,Hardy Sandhu,Soch,88.0,2013-12-26
+5JvNLmqXvN0UvzBDx6vj8E,Naah,Hardy Sandhu,Naah,87.0,2017-11-28
+1D8Y4qWG3S6p9mQjPx0WkT,Kya Baat Ay,Hardy Sandhu,Kya Baat Ay,89.0,2018-09-07
+2xCBdcXhNwf8pFl1YmXgLM,Titliaan,Hardy Sandhu,Titliaan Warga,86.0,2014-09-18
+3wGEAxvF9WPNbZYJNvd8SR,Backbone,Hardy Sandhu,Backbone,88.0,2017-09-08
+4zWxZkJxqL9n1YSPqRV8gP,Dil Diyan Gallan,Atif Aslam,Tiger Zinda Hai,91.0,2017-12-22
+5LqLvbMrxXqNv5Xz0n3F8Y,Paniyon Sa,Atif Aslam,Satyameva Jayate,87.0,2018-08-15
+2MzNDGvbLNLqGhFTHgJfE6,Jeene Laga Hoon,Atif Aslam,Ramaiya Vastavaiya,88.0,2013-07-19
+3yZxVYKVdqSxKJPxPfKXpL,Tere Sang Yaara,Atif Aslam,Rustom,90.0,2016-08-12
+4xZWqDjG9NwMXnxKxVFPh5,O Saathi,Atif Aslam,Baaghi 2,89.0,2018-03-30
+1YhMLJqLxVkV9JZPqLVFmN,Dil Meri Na Sune,Atif Aslam,Genius,85.0,2018-08-24
+2VgJxLVD5S0l9DWnPvVQKF,Main Rang Sharbaton Ka,Atif Aslam,Phata Poster Nikhla Hero,87.0,2013-09-20
+3pZWvWNMdJ7LqKFWG5nVXB,Bakhuda Tumhi Ho,Atif Aslam,Kismat Konnection,88.0,2008-07-18
+4kHPGL1V8yLvV8NxVQnFJL,Tera Hone Laga Hoon,Atif Aslam,Ajab Prem Ki Ghazab Kahani,91.0,2009-11-06
+2xBDmPP0T0gVEYLVN5nHdD,Pehli Dafa,Atif Aslam,Ileana D'Cruz Hits,86.0,2017-03-17
+3NmZKXqGcYhZ0M4pVPLJ8x,Doorie,Atif Aslam,Doorie,87.0,2006-09-01
+4DGWP0vX5pHGHcVlxX3NjL,Woh Lamhe,Atif Aslam,Zeher,88.0,2005-03-25
+5MnKfXqW8vNjLjXGpqYGLY,Lamha Lamha,Atif Aslam,Gangster,86.0,2006-04-28
+2VkG8xNqWQ9fPfJPxLkXzJ,Tu Jaane Na,Atif Aslam,Ajab Prem Ki Ghazab Kahani,92.0,2009-11-06
+3jGWQxVKLdPDKpxKvPFPcY,Pehli Nazar Mein,Atif Aslam,Race,89.0,2008-03-21
+1MzYnhDL8rWX7KNm3PVlZp,Gulabi Aankhen,Sanam,Gulabi Aankhen,90.0,2015-10-15
+2xGLqNvhWZJ8WqPvXvNjKY,Lag Ja Gale,Sanam,Lag Ja Gale,89.0,2014-07-24
+3yZNvlxKVd8pFQvqLXzKxN,Mere Mehboob Qayamat Hogi,Sanam,Qayamat,88.0,2015-05-22
+4zWQxLKd9vNjLqGYdP8F6X,Kya Hua Tera Wada,Sanam,Kya Hua Tera Wada,87.0,2015-09-18
+5MnKfXqW8vNjLjXGpqYGLR,O Mere Dil Ke Chain,Sanam,O Mere Dil Ke Chain,86.0,2014-11-14
+1YhMLJqLxVkV9JZPqLVFmP,Yeh Vaada Raha,Sanam,Yeh Vaada Raha,85.0,2016-02-05
+2VgJxLVD5S0l9DWnPvVQKH,Ajeeb Dastan Hai Yeh,Sanam,Ajeeb Dastan Hai Yeh,84.0,2015-04-17
+3pZWvWNMdJ7LqKFWG5nVXC,Humko Humise Chura Lo,Sanam,Mohabbatein Unplugged,86.0,2016-08-26
+4kHPGL1V8yLvV8NxVQnFJM,Likhe Jo Khat Tujhe,Sanam,Kanyadaan Unplugged,85.0,2017-01-20
+2xBDmPP0T0gVEYLVN5nHdF,Tu Mera Dil,Sanam Puri,Happy Hardy And Heer,84.0,2020-01-31
+3NmZKXqGcYhZ0M4pVPLJ8y,Yeh Moh Moh Ke Dhaage,Papon,Dum Laga Ke Haisha,88.0,2015-02-27
+4DGWP0vX5pHGHcVlxX3NjM,Moh Moh Ke Dhaage,Monali Thakur,Dum Laga Ke Haisha,89.0,2015-02-27
+5MnKfXqW8vNjLjXGpqYGLZ,Sawaar Loon,Monali Thakur,Lootera,87.0,2013-07-05
+2VkG8xNqWQ9fPfJPxLkXzK,Zara Zara Touch Me,Shreya Ghoshal,Race,85.0,2008-03-21
+3jGWQxVKLdPDKpxKvPFPcZ,Suraj Hua Maddham,Alka Yagnik,Kabhi Khushi Kabhie Gham,91.0,2001-12-14
+1MzYnhDL8rWX7KNm3PVlZq,Bole Chudiyan,Udit Narayan,Kabhi Khushi Kabhie Gham,90.0,2001-12-14
+2xGLqNvhWZJ8WqPvXvNjKZ,Tere Liye,Lata Mangeshkar,Veer-Zaara,92.0,2004-11-12
+3yZNvlxKVd8pFQvqLXzKxO,Main Yahaan Hoon,Udit Narayan,Veer-Zaara,91.0,2004-11-12s
+5MnKfXqW8vNjLjXGpqYGLW,Do Pal,Lata Mangeshkar,Veer-Zaara,90.0,2004-11-12
+1YhMLJqLxVkV9JZPqLVFmQ,Tere Bina,Shreya Ghoshal,Guru,88.0,2007-01-12
+2VgJxLVD5S0l9DWnPvVQKG,Mayya Mayya,Maryam Toller,Guru,87.0,2007-01-12
+3pZWvWNMdJ7LqKFWG5nVXD,Ae Khuda,Salim Merchant,Murder 2,86.0,2011-07-08
+4kHPGL1V8yLvV8NxVQnFJN,Phir Mohabbat,Arijit Singh,Murder 2,88.0,2011-07-08
+2xBDmPP0T0gVEYLVN5nHdG,Tum Se Hi,Mohit Chauhan,Jab We Met,92.0,2007-10-26
+3NmZKXqGcYhZ0M4pVPLJ8z,Yeh Dooriyan,Mohit Chauhan,Love Aaj Kal,89.0,2009-07-31
+4DGWP0vX5pHGHcVlxX3NjN,Twist,Mohit Chauhan,Love Aaj Kal,87.0,2009-07-31
+5MnKfXqW8vNjLjXGpqYGLX,Aaj Din Chadheya,Rahat Fateh Ali Khan,Love Aaj Kal,88.0,2009-07-31
+2VkG8xNqWQ9fPfJPxLkXzL,Kun Faya Kun,A.R. Rahman,Rockstar,93.0,2011-11-11
+3jGWQxVKLdPDKpxKvPFPcX,Nadaan Parindey,A.R. Rahman,Rockstar,90.0,2011-11-11
+1MzYnhDL8rWX7KNm3PVlZr,Sadda Haq,Mohit Chauhan,Rockstar,89.0,2011-11-11
+2xGLqNvhWZJ8WqPvXvNjKX,Tum Ko,Mohit Chauhan,Rockstar,87.0,2011-11-11
+3yZNvlxKVd8pFQvqLXzKxP,Hawa Hawa,Arif Lohar,Rockstar,86.0,2011-11-11
+4zWQxLKd9vNjLqGYdP8F6Z,Jo Bhi Main,Mohit Chauhan,Rockstar,88.0,2011-11-11
+5MnKfXqW8vNjLjXGpqYGLY,Katiya Karoon,Harshdeep Kaur,Rockstar,85.0,2011-11-11
+6LmPXNZZN0YgM9QVGZ0K1z,Laung Laachi,Mannat Noor,Laung Laachi,92.0,2018-03-09
+7MnQZWfVN1ZhNqVHXz1L2a,High Rated Gabru,Guru Randhawa,High Rated Gabru,91.0,2017-10-20
+8NoRaXWgN2aiOqWIYa2M3b,Suit Suit,Guru Randhawa,Hindi Medium,90.0,2017-05-19
+9PpSbYXhO3bjPrZJZb3N4c,Lahore,Guru Randhawa,Lahore,93.0,2017-12-08
+1QqTcZhWO4ckMqYKZc4O5d,Made In India,Guru Randhawa,Made In India,92.0,2018-03-21
+2RrUdYPjP5dlNqZLZd5P6e,Ban Ja Rani,Guru Randhawa,Page One,89.0,2013-09-05
+3SsVeZQkQ6fmOqaMZe6Q7f,Slowly Slowly,Guru Randhawa,Slowly Slowly,88.0,2019-04-19
+4TtWfaXlR7gnPqbNZf7R8g,Dance Meri Rani,Guru Randhawa,Dance Meri Rani,87.0,2021-10-21
+5UuXgbYmS8hoRqcOZg8S9h,Baby Girl,Guru Randhawa,Baby Girl,86.0,2019-10-11
+6VvYhaZnT9ijSqdPZh9T0i,Morni Banke,Guru Randhawa,Badhaai Ho,89.0,2018-10-18
+7WwZibaoU0kjTqdQZi0U1j,Patola,Guru Randhawa,Patola,90.0,2015-11-12
+8XxZjcbpV1lkUqeRZj1V2k,Lahore Yaar,Guru Randhawa,Lahore Yaar,87.0,2015-05-22
+9YyajdcqW2mlVrfSak2W3l,Outfit,Guru Randhawa,Outfit,88.0,2015-08-14
+1ZzbkeerX3nmWsgTal3X4m,Kaun Nachdi,Guru Randhawa,Sonu Ke Titu Ki Sweety,89.0,2018-02-23
+2AaclfghY4onXthtUbm4Y5n,Ishare Tere,Guru Randhawa,Sonu Ke Titu Ki Sweety,90.0,2018-02-23
+3BbdmgijZ5poYuiuVcn5Z6o,Naach Meri Rani,Guru Randhawa,Naach Meri Rani,91.0,2020-10-15
+4CcenhjkaA6qpZvjWdo6A7p,Doob Gaye,Guru Randhawa,Haseena Parkar,87.0,2017-09-22
+5DdfoikjlB7rqawkXep7B8q,Made In India Remix,Guru Randhawa,Made In India Remix,86.0,2018-08-10
+6EegjpklmC8srbnlYfq8C9r,Downtown,Guru Randhawa,Downtown,88.0,2018-11-02
+7FfhkqmnD9tscoymZgr9D0s,Enni Soni,Guru Randhawa,Pati Patni Aur Woh,87.0,2019-12-06
+8GgijlorE0utdpznahr0E1t,Ban Ja Tu Meri Rani,Guru Randhawa,Tumhari Sulu,86.0,2017-11-17
+9HhjkmpsfF1vueq0pais1F2u,Raat Kamaal Hai,Guru Randhawa,Guru Randhawa Hits,85.0,2018-01-26
+1IiklnqtgG2wvfrqbqbjt2G3v,Tere Te,Guru Randhawa,Tere Te,88.0,2018-02-14
+2JjlmoruhH3xwgscrcku3H4w,Fashion,Guru Randhawa,Fashion,87.0,2020-01-03
+3KkmnpsviI4yx hsdrlt4I5x,Surma Surma,Guru Randhawa,Surma Surma,89.0,2019-08-02
+4LlnoqtwjJ5yziteuml5J6y,Black,Guru Randhawa,Black,88.0,2019-07-19
+5MmopquxkK6z0jufvnm6K7z,Billionaire,Yo Yo Honey Singh,Billionaire,90.0,2020-10-21
+6NnpqrvylL7A1kvgwon7L8A,Blue Eyes,Yo Yo Honey Singh,Blue Eyes,92.0,2013-03-01
+7OoqrswzmM8B2lwxhxp8M9B,Love Dose,Yo Yo Honey Singh,Love Dose,91.0,2014-10-07
+8PprstwAnN9C3mxyiyq9N0C,Desi Kalakaar,Yo Yo Honey Singh,Desi Kalakaar,89.0,2014-08-26
+9QqstuxBoO0D4nyzjzr0O1D,Chaar Botal Vodka,Yo Yo Honey Singh,Ragini MMS 2,88.0,2014-03-21
+1RrtuvsyCpP1E5o0A0s1P2E,Birthday Bash,Yo Yo Honey Singh,Dilliwaali Zaalim Girlfriend,87.0,2015-03-20
+2SsuvwtDzDqQ2F6pB1p1B3t2Q,Dheere Dheere,Yo Yo Honey Singh,Dheere Dheere,90.0,2015-09-01
+3TtvwxuEzErR3G7qC2q2C4u3R,This Party Gettin Hot,Yo Yo Honey Singh,Bajrangi Bhaijaan,88.0,2015-07-17
+4UuvxyFaFsS4H8rD3r3D5v4S,Makhna,Yo Yo Honey Singh,Makhna,89.0,2018-10-24
+5VvwyzGbGtT5I9sE4s4E6w5T,Dil Chori,Yo Yo Honey Singh,Sonu Ke Titu Ki Sweety,91.0,2018-02-23
+6WwxzaHcHuU6J0tF5t5F7x6U,Gur Nalo Ishq Mitha,Yo Yo Honey Singh,Malang,87.0,2020-02-07
+7XxAaBIdIvV7K1uG6u6G8y7V,Loca,Yo Yo Honey Singh,Loca,88.0,2020-03-20
+8YyBbCJeJwW8L2vH7v7H9z8W,Chote Chote Peg,Yo Yo Honey Singh,Sonu Ke Titu Ki Sweety,90.0,2018-02-23
+9ZzCcDKfKxX9M3wI8w8I0A9X,Angreji Beat,Yo Yo Honey Singh,Cocktail,89.0,2012-07-13
+1AaDdELgLyY0N4xJ9x9J1B0Y,Lungi Dance,Yo Yo Honey Singh,Chennai Express,92.0,2013-08-09
+2BbEeFmMzZ1P5yK0A0A0K2C1Z,Party All Night,Yo Yo Honey Singh,Boss,88.0,2013-10-16
+3CcFfGnNa A2Q6zL1B1B1L3D2A,Manali Trance,Yo Yo Honey Singh,The Xpose,87.0,2014-05-16
+4DdGgHoObB3R7AM2C2C2M4E3B,Bring Me Back,Yo Yo Honey Singh,Bring Me Back,86.0,2012-08-24
+5EeHhIpPcC4S8BN3D3D3N5F4C,Dope Shope,Yo Yo Honey Singh,Dope Shope,89.0,2011-12-15
+6FfIiJqQdD5T9CO4E4E4O6G5D,Brown Rang,Yo Yo Honey Singh,Brown Rang,91.0,2012-01-20
+7GgJjKrReE6U0DP5F5F5P7H6E,High Heels,Yo Yo Honey Singh,Ki & Ka,88.0,2016-04-01
+8HhKkLsSfF7V1EQ6G6G6Q8I7F,Sunny Sunny,Yo Yo Honey Singh,Yaariyan,87.0,2014-01-10
+9IiLlMtTgG8W2FR7H7H7R9J8G,Abhi Toh Party Shuru Hui Hai,Badshah,Khoobsurat,90.0,2014-09-19
+1JjMmNuUhH9X3GS8I8I8S0K9H,Kar Gayi Chull,Badshah,Kapoor & Sons,92.0,2016-03-18
+2KkNoOvViI0Y4HT9J9J9T1L0I,DJ Waley Babu,Badshah,DJ Waley Babu,93.0,2015-10-02
+3LlPpPwWjJ1Z5IU0K0K0U2M1J,Mercy,Badshah,Mercy,91.0,2017-11-29
+4MmQqQxXkK2A6JV1L1L1V3N2K,Tareefan,Badshah,Veere Di Wedding,90.0,2018-06-01
+5NnRrRyYlL3B7KW2M2M2W4O3L,Proper Patola,Badshah,Proper Patola,89.0,2016-09-02
+6OoSsSzZmM4C8LX3N3N3X5P4M,Genda Phool,Badshah,Genda Phool,92.0,2020-03-26
+7PpTtTaAnN5D9MY4O4O4Y6Q5N,Jugnu,Badshah,Jugnu,91.0,2021-01-14
+8QqUuUbBoO6E0NZ5P5P5Z7R6O,Paagal,Badshah,Paagal,90.0,2019-07-24
+9RrVvVcCpP7F1OA6Q6Q6A8S7P,Garmi,Badshah,Street Dancer 3D,89.0,2020-01-24
+1SsWwWdDqQ8G2PB7R7R7B9T8Q,Kamaal Hai,Badshah,Kamaal Hai,88.0,2021-03-12
+2TtXxXeErR9H3QC8S8S8C0U9R,Bachpan Ka Pyaar,Badshah,Bachpan Ka Pyaar,87.0,2021-08-13
+3UuYyYfFsS0I4RD9T9T9D1V0S,The Breakup Song,Arijit Singh,Ae Dil Hai Mushkil,91.0,2016-10-28
+4VvZzZgGtT1J5SE0U0U0E2W1T,Cutiepie,Nakash Aziz,Ae Dil Hai Mushkil,88.0,2016-10-28
+5WwAaAhHuU2K6TF1V1V1F3X2U,Ilahi,Arijit Singh,Yeh Jawaani Hai Deewani,92.0,2013-05-31
+6XxBbBiIvV3L7UG2W2W2G4Y3V,Balam Pichkari,Shalmali Kholgade,Yeh Jawaani Hai Deewani,90.0,2013-05-31
+7YyCcCjJwW4M8VH3X3X3H5Z4W,Ghagra,Vishal Dadlani,Yeh Jawaani Hai Deewani,89.0,2013-05-31
+8ZzDdDkKxX5N9WI4Y4Y4I6A5X,Dilliwaali Girlfriend,Arijit Singh,Yeh Jawaani Hai Deewani,88.0,2013-05-31
+9AaEeElLyY6O0XJ5Z5Z5J7B6Y,Radha,Shreya Ghoshal,Student of the Year,91.0,2012-10-19
+1BbFfFmMzZ7P1YK6A6A6K8C7Z,Ishq Wala Love,Shekhar Ravjiani,Student of the Year,90.0,2012-10-19
+2CcGgGnNaA8Q2ZL7B7B7L9D8A,Vele,Vishal Dadlani,Student of the Year,88.0,2012-10-19
+3DdHhHoObB9R3AM8C8C8M0E9B,Ratta Maar,Shefali Alvares,Student of the Year,87.0,2012-10-19
+4EeIiIpPcC0S4BN9D9D9N1F0C,Dagabaaz Re,Shreya Ghoshal,Dabangg 2,89.0,2012-12-21
+5FfJjJqQdD1T5CO0E0E0O2G1D,Pandeyji Seeti,Wajid,Dabangg 2,88.0,2012-12-21
+6GgKkKrReE2U6DP1F1F1P3H2E,Fevicol Se,Mamta Sharma,Dabangg 2,92.0,2012-12-21
+7HhLlLsSfF3V7EQ2G2G2Q4I3F,Dhaakad,Anu Malik,Dangal,90.0,2016-12-23
+8IiMmMtTgG4W8FR3H3H3R5J4G,Haanikaarak Bapu,Sarwar Khan,Dangal,89.0,2016-12-23
+9JjNnNuUhH5X9GS4I4I4S6K5H,Gilehriyaan,Jonita Gandhi,Dangal,88.0,2016-12-23
+1KkOoOvViI6Y0HT5J5J5T7L6I,Naina,Arijit Singh,Dangal,91.0,2016-12-23
+2LlPpPwWjJ7Z1IU6K6K6U8M7J,Sun Saathiya,Priya Saraiya,ABCD 2,90.0,2015-06-19
+3MmQqQxXkK8A2JV7L7L7V9N8K,Bezubaan Phir Se,Anushka Manchanda,ABCD 2,89.0,2015-06-19
+4NnRrRyYlL9B3KW8M8M8W0O9L,Happy Hour,Mika Singh,ABCD 2,87.0,2015-06-19
+5OoSsSzZmM0C4LX9N9N9X1P0M,Chunar,Arijit Singh,ABCD 2,91.0,2015-06-19
+6PpTtTaAnN1D5MY0O0O0Y2Q1N,Tum Hi Ho,Arijit Singh,Aashiqui 2,94.0,2013-04-08
+7QqUuUbBoO2E6NZ1P1P1Z3R2O,Chahun Main Ya Naa,Arijit Singh,Aashiqui 2,92.0,2013-04-08
+8RrVvVcCpP3F7OA2Q2Q2A4S3P,Piya Aaye Na,KK,Aashiqui 2,90.0,2013-04-08
+9SsWwWdDqQ4G8PB3R3R3B5T4Q,Aasan Nahin Yahan,Lucky Ali,Aashiqui 2,88.0,2013-04-08
+1TtXxXeErR5H9QC4S4S4C6U5R,Meri Aashiqui,Arijit Singh,Aashiqui 2,93.0,2013-04-08
+2UuYyYfFsS6I0RD5T5T5D7V6S,Hum Mar Jayenge,Arijit Singh,Aashiqui 2,91.0,2013-04-08
+3VvZzZgGtT7J1SE6U6U6E8W7T,Allah Hu,Nusrat Fateh Ali Khan,Allah Hu,94.0,1997-06-15
+4WwAaAhHuU8K2TF7V7V7F9X8U,Dam Mast Qalandar,Nusrat Fateh Ali Khan,Dam Mast Qalandar,93.0,1996-08-20
+5XxBbBiIvV9L3UG8W8W8G0Y9V,Tumhe Dillagi,Nusrat Fateh Ali Khan,Tumhe Dillagi,92.0,1995-07-12
+6YyCcCjJwW0M4VH9X9X9H1Z0W,Kinna Sohna,Nusrat Fateh Ali Khan,Kinna Sohna,91.0,1994-05-18
+7ZzDdDkKxX1N5WI0Y0Y0I2A1X,Afreen Afreen,Nusrat Fateh Ali Khan,Afreen Afreen,95.0,1996-12-10
+8AaEeElLyY2O6XJ1Z1Z1J3B2Y,Mere Rashke Qamar,Nusrat Fateh Ali Khan,Mere Rashke Qamar,94.0,1988-09-25
+9BbFfFmMzZ3P7YK2A2A2K4C3Z,Sanu Ik Pal Chain,Nusrat Fateh Ali Khan,Judaai,93.0,1997-02-28
+1CcGgGnNaA4Q8ZL3B3B3L5D4A,Sanson Ki Mala,Nusrat Fateh Ali Khan,Sanson Ki Mala,92.0,1989-11-30
+2DdHhHoObB5R9AM4C4C4M6E5B,Yeh Jo Halka Halka Suroor Hai,Nusrat Fateh Ali Khan,Yeh Jo Halka Halka,91.0,1996-04-22
+3EeIiIpPcC6S0BN5D5D5N7F6C,Ali Maula,Nusrat Fateh Ali Khan,Ali Maula,90.0,1995-08-15
+4FfJjJqQdD7T1CO6E6E6O8G7D,Mera Piya Ghar Aaya,Nusrat Fateh Ali Khan,Yaarana,93.0,1995-01-13
+5GgKkKrReE8U2DP7F7F7P9H8E,Kali Kali Zulfon Ke,Nusrat Fateh Ali Khan,Kali Kali Zulfon,92.0,1994-06-20
+6HhLlLsSfF9V3EQ8G8G8Q0I9F,Piya Re,Nusrat Fateh Ali Khan,Piya Re,91.0,1993-03-18
+7IiMmMtTgG0W4FR9H9H9R1J0G,Tere Bin Nahin Lagda,Nusrat Fateh Ali Khan,Tere Bin Nahin,94.0,1997-09-05
+8JjNnNuUhH1X5GS0I0I0S2K1H,Dulhe Ka Sehra,Nusrat Fateh Ali Khan,Dulhe Ka Sehra,93.0,1995-11-24
+9KkOoOvViI2Y6HT1J1J1T3L2I,Kabhi Kisiko Muqammal,Rahat Fateh Ali Khan,Kabhi Kisiko Muqammal,88.0,2013-07-10
+1LlPpPwWjJ3Z7IU2K2K2U4M3J,Zaroori Tha,Rahat Fateh Ali Khan,Zaroori Tha,92.0,2014-10-15
+2MmQqQxXkK4A8JV3L3L3V5N4K,Jag Ghoomeya,Rahat Fateh Ali Khan,Sultan,91.0,2016-07-06
+3NnRrRyYlL5B9KW4M4M4W6O5L,Main Rahoon Ya Na Rahoon,Rahat Fateh Ali Khan,Main Rahoon,90.0,2015-04-24
+4OoSsSzZmM6C0LX5N5N5X7P6M,Afreen Afreen Remix,Rahat Fateh Ali Khan,Coke Studio,93.0,2016-08-12
+5PpTtTaAnN7D1MY6O6O6Y8Q7N,Tere Mast Mast Do Nain,Rahat Fateh Ali Khan,Dabangg,92.0,2010-09-10
+6QqUuUbBoO8E2NZ7P7P7Z9R8O,Dil To Bachcha Hai Ji,Rahat Fateh Ali Khan,Ishqiya,89.0,2010-01-29
+7RrVvVcCpP9F3OA8Q8Q8A0S9P,Teri Ore,Rahat Fateh Ali Khan,Singh Is Kinng,91.0,2008-08-08
+8SsWwWdDqQ0G4PB9R9R9B1T0Q,Sajda,Rahat Fateh Ali Khan,My Name Is Khan,90.0,2010-02-12
+9TtXxXeErR1H5QC0S0S0C2U1R,O Re Piya,Rahat Fateh Ali Khan,Aaja Nachle,88.0,2007-11-30
+1UuYyYfFsS2I6RD1T1T1D3V2S,Tum Jo Aaye,Rahat Fateh Ali Khan,Once Upon A Time In Mumbai,92.0,2010-07-30
+2VvZzZgGtT3J7SE2U2U2E4W3T,Dil Sambhal Ja Zara,Rahat Fateh Ali Khan,Murder 2,89.0,2011-07-08
+3WwAaAhHuU4K8TF3V3V3F5X4U,Tere Naal Love Ho Gaya,Rahat Fateh Ali Khan,Tere Naal Love Ho Gaya,87.0,2012-02-24
+4XxBbBiIvV5L9UG4W4W4G6Y5V,Halka Halka,Rahat Fateh Ali Khan,Fanney Khan,86.0,2018-08-03
+5YyCcCjJwW6M0VH5X5X5H7Z6W,Ishq Sufiyana,Rahat Fateh Ali Khan,The Dirty Picture,88.0,2011-12-02
+6ZzDdDkKxX7N1WI6Y6Y6I8A7X,Main Tenu Samjhawan Ki,Rahat Fateh Ali Khan,Virsa,92.0,2010-04-16
+7AaEeElLyY8O2XJ7Z7Z7J9B8Y,Dillagi,Rahat Fateh Ali Khan,Dillagi,91.0,2016-01-22
+8BbFfFmMzZ9P3YK8A8A8K0C9Z,Aadat,Atif Aslam,Jal Pari,93.0,2004-04-01
+9CcGgGnNaA0Q4ZL9B9B9L1D0A,Yakeen,Atif Aslam,Yakeen,92.0,2006-05-19
+1DdHhHoObB1R5AM0C0C0M2E1B,Pehli Nazar Mein,Atif Aslam,Race,91.0,2008-03-21
+2EeIiIpPcC2S6BN1D1D1N3F2C,Doorie Reprise,Atif Aslam,Doorie,90.0,2006-09-01
+3FfJjJqQdD3T7CO2E2E2O4G3D,Kuch Is Tarah,Atif Aslam,Doorie,89.0,2006-09-01
+4GgKkKrReE4U8DP3F3F3P5H4E,Mahi Ve,Atif Aslam,Kalyug,91.0,2005-12-09
+5HhLlLsSfF5V9EQ4G4G4Q6I5F,Jalpari,Atif Aslam,Jal Pari,90.0,2004-04-01
+6IiMmMtTgG6W0FR5H5H5R7J6G,Humrahi,Atif Aslam,Humrahi,88.0,2010-02-05
+7JjNnNuUhH7X1GS6I6I6S8K7H,Ehsaas,Atif Aslam,Ehsaas,87.0,2008-07-29
+8KkOoOvViI8Y2HT7J7J7T9L8I,Jal Pari,Atif Aslam,Jal Pari,92.0,2004-04-01
+9LlPpPwWjJ9Z3IU8K8K8U0M9J,Hum Kis Gali,Atif Aslam,Doorie,89.0,2006-09-01
+1MmQqQxXkK0A4JV9L9L9V1N0K,Kinara,Atif Aslam,Jal Pari,88.0,2004-04-01
+2NnRrRyYlL1B5KW0M0M0W2O1L,Mahiya,Atif Aslam,Mahiya,90.0,2005-07-22
+3OoSsSzZmM2C6LX1N1N1X3P2M,Woh Lamhe Woh Baatein,Atif Aslam,Zeher,93.0,2005-03-25
+track_id,track_name,artist,album,0.0,release_date
+3VvZzZgGtT7J1SE6U6U6E8W7T,Allah Hu,Nusrat Fateh Ali Khan,Allah Hu,94.0,1997-06-15
+4WwAaAhHuU8K2TF7V7V7F9X8U,Dam Mast Qalandar,Nusrat Fateh Ali Khan,Dam Mast Qalandar,93.0,1996-08-20
+5XxBbBiIvV9L3UG8W8W8G0Y9V,Tumhe Dillagi,Nusrat Fateh Ali Khan,Tumhe Dillagi,92.0,1995-07-12
+6YyCcCjJwW0M4VH9X9X9H1Z0W,Kinna Sohna,Nusrat Fateh Ali Khan,Kinna Sohna,91.0,1994-05-18
+7ZzDdDkKxX1N5WI0Y0Y0I2A1X,Afreen Afreen,Nusrat Fateh Ali Khan,Afreen Afreen,95.0,1996-12-10
+8AaEeElLyY2O6XJ1Z1Z1J3B2Y,Mere Rashke Qamar,Nusrat Fateh Ali Khan,Mere Rashke Qamar,94.0,1988-09-25
+9BbFfFmMzZ3P7YK2A2A2K4C3Z,Sanu Ik Pal Chain,Nusrat Fateh Ali Khan,Judaai,93.0,1997-02-28
+1CcGgGnNaA4Q8ZL3B3B3L5D4A,Sanson Ki Mala,Nusrat Fateh Ali Khan,Sanson Ki Mala,92.0,1989-11-30
+2DdHhHoObB5R9AM4C4C4M6E5B,Yeh Jo Halka Halka Suroor Hai,Nusrat Fateh Ali Khan,Yeh Jo Halka Halka,91.0,1996-04-22
+3EeIiIpPcC6S0BN5D5D5N7F6C,Ali Maula,Nusrat Fateh Ali Khan,Ali Maula,90.0,1995-08-15
+4FfJjJqQdD7T1CO6E6E6O8G7D,Mera Piya Ghar Aaya,Nusrat Fateh Ali Khan,Yaarana,93.0,1995-01-13
+5GgKkKrReE8U2DP7F7F7P9H8E,Kali Kali Zulfon Ke,Nusrat Fateh Ali Khan,Kali Kali Zulfon,92.0,1994-06-20
+6HhLlLsSfF9V3EQ8G8G8Q0I9F,Piya Re,Nusrat Fateh Ali Khan,Piya Re,91.0,1993-03-18
+7IiMmMtTgG0W4FR9H9H9R1J0G,Tere Bin Nahin Lagda,Nusrat Fateh Ali Khan,Tere Bin Nahin,94.0,1997-09-05
+8JjNnNuUhH1X5GS0I0I0S2K1H,Dulhe Ka Sehra,Nusrat Fateh Ali Khan,Dulhe Ka Sehra,93.0,1995-11-24
+9KkOoOvViI2Y6HT1J1J1T3L2I,Kabhi Kisiko Muqammal,Rahat Fateh Ali Khan,Kabhi Kisiko Muqammal,88.0,2013-07-10
+1LlPpPwWjJ3Z7IU2K2K2U4M3J,Zaroori Tha,Rahat Fateh Ali Khan,Zaroori Tha,92.0,2014-10-15
+2MmQqQxXkK4A8JV3L3L3V5N4K,Jag Ghoomeya,Rahat Fateh Ali Khan,Sultan,91.0,2016-07-06
+3NnRrRyYlL5B9KW4M4M4W6O5L,Main Rahoon Ya Na Rahoon,Rahat Fateh Ali Khan,Main Rahoon,90.0,2015-04-24
+4OoSsSzZmM6C0LX5N5N5X7P6M,Afreen Afreen Remix,Rahat Fateh Ali Khan,Coke Studio,93.0,2016-08-12
+5PpTtTaAnN7D1MY6O6O6Y8Q7N,Tere Mast Mast Do Nain,Rahat Fateh Ali Khan,Dabangg,92.0,2010-09-10
+6QqUuUbBoO8E2NZ7P7P7Z9R8O,Dil To Bachcha Hai Ji,Rahat Fateh Ali Khan,Ishqiya,89.0,2010-01-29
+7RrVvVcCpP9F3OA8Q8Q8A0S9P,Teri Ore,Rahat Fateh Ali Khan,Singh Is Kinng,91.0,2008-08-08
+8SsWwWdDqQ0G4PB9R9R9B1T0Q,Sajda,Rahat Fateh Ali Khan,My Name Is Khan,90.0,2010-02-12
+9TtXxXeErR1H5QC0S0S0C2U1R,O Re Piya,Rahat Fateh Ali Khan,Aaja Nachle,88.0,2007-11-30
+1UuYyYfFsS2I6RD1T1T1D3V2S,Tum Jo Aaye,Rahat Fateh Ali Khan,Once Upon A Time In Mumbai,92.0,2010-07-30
+2VvZzZgGtT3J7SE2U2U2E4W3T,Dil Sambhal Ja Zara,Rahat Fateh Ali Khan,Murder 2,89.0,2011-07-08
+3WwAaAhHuU4K8TF3V3V3F5X4U,Tere Naal Love Ho Gaya,Rahat Fateh Ali Khan,Tere Naal Love Ho Gaya,87.0,2012-02-24
+4XxBbBiIvV5L9UG4W4W4G6Y5V,Halka Halka,Rahat Fateh Ali Khan,Fanney Khan,86.0,2018-08-03
+5YyCcCjJwW6M0VH5X5X5H7Z6W,Ishq Sufiyana,Rahat Fateh Ali Khan,The Dirty Picture,88.0,2011-12-02
+6ZzDdDkKxX7N1WI6Y6Y6I8A7X,Main Tenu Samjhawan Ki,Rahat Fateh Ali Khan,Virsa,92.0,2010-04-16
+7AaEeElLyY8O2XJ7Z7Z7J9B8Y,Dillagi,Rahat Fateh Ali Khan,Dillagi,91.0,2016-01-22
+8BbFfFmMzZ9P3YK8A8A8K0C9Z,Rang,Rahat Fateh Ali Khan,Rang,90.0,2013-05-10
+9CcGgGnNaA0Q4ZL9B9B9L1D0A,Jiya Dhadak Dhadak,Rahat Fateh Ali Khan,Kalyug,89.0,2005-12-09
+1DdHhHoObB1R5AM0C0C0M2E1B,Mannat,Rahat Fateh Ali Khan,Dabangg 2,88.0,2012-12-21
+2EeIiIpPcC2S6BN1D1D1N3F2C,Zaroorat,Rahat Fateh Ali Khan,Ek Villain,91.0,2014-06-27
+3FfJjJqQdD3T7CO2E2E2O4G3D,Sajdaa,Rahat Fateh Ali Khan,My Name Is Khan,90.0,2010-02-12
+4GgKkKrReE4U8DP3F3F3P5H4E,Tere Sang,Rahat Fateh Ali Khan,Satellite Shankar,87.0,2019-11-08
+5HhLlLsSfF5V9EQ4G4G4Q6I5F,Teri Meri Prem Kahani,Rahat Fateh Ali Khan,Bodyguard,92.0,2011-08-31
+6IiMmMtTgG6W0FR5H5H5R7J6G,Main Hoon Hero Tera,Rahat Fateh Ali Khan,Hero,88.0,2015-09-11
+7JjNnNuUhH7X1GS6I6I6S8K7H,Dekhte Dekhte,Rahat Fateh Ali Khan,Batti Gul Meter Chalu,89.0,2018-09-14
+8KkOoOvViI8Y2HT7J7J7T9L8I,Mere Nishan,Rahat Fateh Ali Khan,Mere Nishan,87.0,2015-03-20
+9LlPpPwWjJ9Z3IU8K8K8U0M9J,Aaja Mahi,Rahat Fateh Ali Khan,Singh Is Kinng,88.0,2008-08-08
+1MmQqQxXkK0A4JV9L9L9V1N0K,Aas Paas Khuda,Rahat Fateh Ali Khan,Anjaana Anjaani,89.0,2010-10-01
+2NnRrRyYlL1B5KW0M0M0W2O1L,Rabba Main Toh Mar Gaya,Rahat Fateh Ali Khan,Mausam,90.0,2011-09-23
+3OoSsSzZmM2C6LX1N1N1X3P2M,Sajda,Rahat Fateh Ali Khan,Sajda,91.0,2012-04-15
+4PpTtTaAnN3D7MY2O2O2Y4Q3N,Soniye,Rahat Fateh Ali Khan,Heartless,87.0,2014-02-07
+5QqUuUbBoO4E8NZ3P3P3Z5R4O,Muskurana,Rahat Fateh Ali Khan,CityLights,88.0,2014-05-30
+1NnFfFmMzZ3P7YK2A2A2K4C3Z,295,Sidhu Moose Wala,295,95.0,2021-07-23
+2OoGgGnNaA4Q8ZL3B3B3L5D4A,So High,Sidhu Moose Wala,PBX 1,94.0,2018-10-05
+3PpHhHoObB5R9AM4C4C4M6E5B,47,Sidhu Moose Wala,47,93.0,2020-10-23
+4QqIiIpPcC6S0BN5D5D5N7F6C,The Last Ride,Sidhu Moose Wala,The Last Ride,92.0,2020-05-15
+5RrJjJqQdD7T1CO6E6E6O8G7D,Bambiha Bole,Sidhu Moose Wala,Moosetape,94.0,2021-05-15
+6SsKkKrReE8U2DP7F7F7P9H8E,US,Sidhu Moose Wala,US,91.0,2021-03-19
+7TtLlLsSfF9V3EQ8G8G8Q0I9F,Calaboose,Sidhu Moose Wala,Calaboose,90.0,2020-11-27
+8UuMmMtTgG0W4FR9H9H9R1J0G,East Side Flow,Sidhu Moose Wala,East Side Flow,89.0,2019-07-19
+9VvNnNuUhH1X5GS0I0I0S2K1H,Same Beef,Sidhu Moose Wala,Same Beef,92.0,2019-09-13
+1WwOoOvViI2Y6HT1J1J1T3L2I,Mera Na,Sidhu Moose Wala,Mera Na,90.0,2019-02-15
+2XxPpPwWjJ3Z7IU2K2K2U4M3J,Jatt Da Muqabala,Sidhu Moose Wala,Jatt Da Muqabala,91.0,2018-12-21
+3YyQqQxXkK4A8JV3L3L3V5N4K,Goat,Sidhu Moose Wala,Goat,93.0,2020-07-03
+4ZzRrRyYlL5B9KW4M4M4W6O5L,Dollar,Sidhu Moose Wala,Dollar,89.0,2020-01-17
+5AaSsSzZmM6C0LX5N5N5X7P6M,Game,Sidhu Moose Wala,Game,88.0,2019-12-06
+6BbTtTaAnN7D1MY6O6O6Y8Q7N,Issa Jatt,Sidhu Moose Wala,Issa Jatt,90.0,2019-08-23
+7CcUuUbBoO8E2NZ7P7P7Z9R8O,Legend,Sidhu Moose Wala,Legend,92.0,2019-04-12
+8DdVvVcCpP9F3OA8Q8Q8A0S9P,Old Skool,Sidhu Moose Wala,Old Skool,89.0,2018-11-16
+9EeWwWdDqQ0G4PB9R9R9B1T0Q,Jatt Di Clip,Sidhu Moose Wala,Jatt Di Clip,88.0,2019-05-31
+1FfXxXeErR1H5QC0S0S0C2U1R,Warning Shots,Sidhu Moose Wala,Warning Shots,91.0,2020-09-18
+2GgYyYfFsS2I6RD1T1T1D3V2S,Just Listen,Sidhu Moose Wala,Just Listen,87.0,2018-08-10
+3HhZzZgGtT3J7SE2U2U2E4W3T,Famous,Sidhu Moose Wala,Famous,90.0,2019-10-25
+4IiAaAhHuU4K8TF3V3V3F5X4U,Brown Boys,Sidhu Moose Wala,Brown Boys,89.0,2019-03-08
+5JjBbBiIvV5L9UG4W4W4G6Y5V,Tochan,Sidhu Moose Wala,Tochan,88.0,2020-06-12
+6KkCcCjJwW6M0VH5X5X5H7Z6W,Tibeyan Da Putt,Sidhu Moose Wala,Tibeyan Da Putt,92.0,2020-12-18
+7LlDdDkKxX7N1WI6Y6Y6I8A7X,Signed To God,Sidhu Moose Wala,Signed To God,91.0,2021-04-09
+8MmEeElLyY8O2XJ7Z7Z7J9B8Y,Levels,Sidhu Moose Wala,Levels,90.0,2021-08-27
+9NnFfFmMzZ9P3YK8A8A8K0C9Z,Top Class,Prem Dhillon,Top Class,88.0,2021-09-17
+1OoGgGnNaA0Q4ZL9B9B9L1D0A,Boot Cut,Prem Dhillon,Boot Cut,89.0,2020-08-14
+2PpHhHoObB1R5AM0C0C0M2E1B,Old Money,Prem Dhillon,Old Money,90.0,2021-03-26
+3QqIiIpPcC2S6BN1D1D1N3F2C,Chitta,Prem Dhillon,Chitta,87.0,2021-01-08
+4RrJjJqQdD3T7CO2E2E2O4G3D,Model,Prem Dhillon,Model,86.0,2020-11-20
+5SsKkKrReE4U8DP3F3F3P5H4E,Baller,Prem Dhillon,Baller,88.0,2021-05-28
+6TtLlLsSfF5V9EQ4G4G4Q6I5F,Jatt Disde,Prem Dhillon,Jatt Disde,87.0,2020-07-24
+7UuMmMtTgG6W0FR5H5H5R7J6G,Prada,Prem Dhillon,Prada,89.0,2021-07-09
+8VvNnNuUhH7X1GS6I6I6S8K7H,Munde Pind De,Prem Dhillon,Munde Pind De,85.0,2020-09-11
+9WwOoOvViI8Y2HT7J7J7T9L8I,Gabru,Prem Dhillon,Gabru,86.0,2021-02-19
+1XxPpPwWjJ9Z3IU8K8K8U0M9J,Jatt Anthem,Prem Dhillon,Jatt Anthem,88.0,2020-12-25
+2YyQqQxXkK0A4JV9L9L9V1N0K,Hisaab,Prem Dhillon,Hisaab,87.0,2021-06-04
+3ZzRrRyYlL1B5KW0M0M0W2O1L,Facts,Prem Dhillon,Facts,86.0,2020-10-16
+4AaSsSzZmM2C6LX1N1N1X3P2M,Dealer,Prem Dhillon,Dealer,89.0,2021-08-13
+5BbTtTaAnN3D7MY2O2O2Y4Q3N,Batchmate,Prem Dhillon,Batchmate,85.0,2020-06-19
+6CcUuUbBoO4E8NZ3P3P3Z5R4O,Lehanga,Arjan Dhillon,Lehanga,90.0,2022-01-14
+7DdVvVcCpP5F9OA4Q4Q4A6S5P,Bai Bai,Arjan Dhillon,Bai Bai,89.0,2021-11-26
+8EeWwWdDqQ6G0PB5R5R5B7T6Q,Glassy,Arjan Dhillon,Glassy,91.0,2021-09-24
+9FfXxXeErR7H1QC6S6S6C8U7R,Shitaan,Arjan Dhillon,Shitaan,88.0,2022-03-18
+1GgYyYfFsS8I2RD7T7T7D9V8S,Rare,Arjan Dhillon,Rare,87.0,2021-12-31
+2HhZzZgGtT9J3SE8U8U8E0W9T,Maavan,Arjan Dhillon,Maavan,89.0,2022-02-11
+3IiAaAhHuU0K4TF9V9V9F1X0U,Munda Suneha,Arjan Dhillon,Munda Suneha,86.0,2021-10-08
+4JjBbBiIvV1L5UG0W0W0G2Y1V,Sardari,Arjan Dhillon,Sardari,88.0,2022-04-22
+5KkCcCjJwW2M6VH1X1X1H3Z2W,Bhabo,Arjan Dhillon,Bhabo,85.0,2021-08-20
+6LlDdDkKxX3N7WI2Y2Y2I4A3X,Attached,Arjan Dhillon,Attached,87.0,2022-05-13
+7MmEeElLyY4O8XJ3Z3Z3J5B4Y,Faraar,Arjan Dhillon,Faraar,86.0,2021-07-16
+8NnFfFmMzZ5P9YK4A4A4K6C5Z,Gangster,Arjan Dhillon,Gangster,89.0,2022-06-24
+9OoGgGnNaA6Q0ZL5B5B5L7D6A,Munde Chandigarh De,Arjan Dhillon,Munde Chandigarh De,85.0,2021-05-28
+1PpHhHoObB7R1AM6C6C6M8E7B,Duniya,Arjan Dhillon,Duniya,87.0,2022-07-08
+2QqIiIpPcC8S2BN7D7D7N9F8C,Jugnu,Arjan Dhillon,Jugnu,88.0,2021-11-12
+3RrJjJqQdD9T3CO8E8E8O0G9D,Billo,Arjan Dhillon,Billo,86.0,2022-08-19
+4SsKkKrReE0U4DP9F9F9P1H0E,Dil Diyan Gallan,Atif Aslam,Tiger Zinda Hai,91.0,2017-12-22
+5TtLlLsSfF1V5EQ0G0G0Q2I1F,Paniyon Sa,Atif Aslam,Satyameva Jayate,87.0,2018-08-15
+6UuMmMtTgG2W6FR1H1H1R3J2G,Jeene Laga Hoon,Atif Aslam,Ramaiya Vastavaiya,88.0,2013-07-19
+7VvNnNuUhH3X7GS2I2I2S4K3H,Tere Sang Yaara,Atif Aslam,Rustom,90.0,2016-08-12
+8WwOoOvViI4Y8HT3J3J3T5L4I,O Saathi,Atif Aslam,Baaghi 2,89.0,2018-03-30
+9XxPpPwWjJ5Z9IU4K4K4U6M5J,Dil Meri Na Sune,Atif Aslam,Genius,85.0,2018-08-24
+1YyQqQxXkK6A0JV5L5L5V7N6K,Main Rang Sharbaton Ka,Atif Aslam,Phata Poster Nikhla Hero,87.0,2013-09-20
+2ZzRrRyYlL7B1KW6M6M6W8O7L,Bakhuda Tumhi Ho,Atif Aslam,Kismat Konnection,88.0,2008-07-18
+3AaSsSzZmM8C2LX7N7N7X9P8M,Tera Hone Laga Hoon,Atif Aslam,Ajab Prem Ki Ghazab Kahani,91.0,2009-11-06
+4BbTtTaAnN9D3MY8O8O8Y0Q9N,Pehli Dafa,Atif Aslam,Ileana D'Cruz Hits,86.0,2017-03-17
+5CcUuUbBoO0E4NZ9P9P9Z1R0O,Doorie,Atif Aslam,Doorie,87.0,2006-09-01
+6DdVvVcCpP1F5OA0Q0Q0A2S1P,Woh Lamhe,Atif Aslam,Zeher,88.0,2005-03-25
+7EeWwWdDqQ2G6PB1R1R1B3T2Q,Lamha Lamha,Atif Aslam,Gangster,86.0,2006-04-28
+8FfXxXeErR3H7QC2S2S2C4U3R,Tu Jaane Na,Atif Aslam,Ajab Prem Ki Ghazab Kahani,92.0,2009-11-06
+9GgYyYfFsS4I8RD3T3T3D5V4S,Pehli Nazar Mein,Atif Aslam,Race,89.0,2008-03-21
+1HhZzZgGtT5J9SE4U4U4E6W5T,Aadat,Atif Aslam,Jal Pari,93.0,2004-04-01
+2IiAaAhHuU6K0TF5V5V5F7X6U,Yakeen,Atif Aslam,Yakeen,92.0,2006-05-19
+3JjBbBiIvV7L1UG6W6W6G8Y7V,Mahi Ve,Atif Aslam,Kalyug,91.0,2005-12-09
+4KkCcCjJwW8M2VH7X7X7H9Z8W,Jalpari,Atif Aslam,Jal Pari,90.0,2004-04-01
+5LlDdDkKxX9N3WI8Y8Y8I0A9X,Kuch Is Tarah,Atif Aslam,Doorie,89.0,2006-09-01
+6MmEeElLyY0O4XJ9Z9Z9J1B0Y,Dil Diyan Gallan,Kumar Sanu,Dil Diyan Gallan,88.0,1995-05-12
+7NnFfFmMzZ1P5YK0A0A0K2C1Z,Yeh Kaali Kaali Aankhen,Kumar Sanu,Baazigar,92.0,1993-11-12
+8OoGgGnNaA2Q6ZL1B1B1L3D2A,Dheere Dheere Se,Kumar Sanu,Aashiqui,94.0,1990-07-23
+9PpHhHoObB3R7AM2C2C2M4E3B,Nazar Ke Samne,Kumar Sanu,Aashiqui,93.0,1990-07-23
+1QqIiIpPcC4S8BN3D3D3N5F4C,Ek Ladki Ko Dekha,Kumar Sanu,1942 A Love Story,91.0,1994-01-15
+2RrJjJqQdD5T9CO4E4E4O6G5D,Tujhe Dekha To,Kumar Sanu,Dilwale Dulhania Le Jayenge,95.0,1995-10-20
+3SsKkKrReE6U0DP5F5F5P7H6E,Mehndi Laga Ke Rakhna,Kumar Sanu,Dilwale Dulhania Le Jayenge,94.0,1995-10-20
+4TtLlLsSfF7V1EQ6G6G6Q8I7F,Ho Gaya Hai Tujhko,Kumar Sanu,Dilwale Dulhania Le Jayenge,93.0,1995-10-20
+5UuMmMtTgG8W2FR7H7H7R9J8G,Zara Sa Jhoom Loon Main,Kumar Sanu,Dilwale Dulhania Le Jayenge,92.0,1995-10-20
+6VvNnNuUhH9X3GS8I8I8S0K9H,Bahon Ke Darmiyan,Kumar Sanu,Khamoshi,91.0,1996-08-09
+7WwOoOvViI0Y4HT9J9J9T1L0I,Kal Ho Naa Ho,Sonu Nigam,Kal Ho Naa Ho,94.0,2003-11-07
+8XxPpPwWjJ1Z5IU0K0K0U2M1J,Suraj Hua Maddham,Sonu Nigam,Kabhi Khushi Kabhie Gham,93.0,2001-12-14
+9YyQqQxXkK2A6JV1L1L1V3N2K,Abhi Mujh Mein Kahin,Sonu Nigam,Agneepath,90.0,2012-01-26
+1ZzRrRyYlL3B7KW2M2M2W4O3L,Saathiya,Sonu Nigam,Saathiya,92.0,2002-12-20
+2AaSsSzZmM4C8LX3N3N3X5P4M,Do Pal,Sonu Nigam,Veer-Zaara,93.0,2004-11-12
+3BbTtTaAnN5D9MY4O4O4Y6Q5N,Main Agar Kahoon,Sonu Nigam,Om Shanti Om,91.0,2007-11-09
+4CcUuUbBoO6E0NZ5P5P5Z7R6O,Tumhi Dekho Na,Sonu Nigam,Kabhi Alvida Naa Kehna,90.0,2006-08-11
+5DdVvVcCpP7F1OA6Q6Q6A8S7P,Sandese Aate Hai,Sonu Nigam,Border,94.0,1997-06-13
+6EeWwWdDqQ8G2PB7R7R7B9T8Q,Satrangi Re,Sonu Nigam,Dil Se,92.0,1998-08-21
+7FfXxXeErR9H3QC8S8S8C0U9R,Yeh Dil Deewana,Sonu Nigam,Pardes,91.0,1997-08-08
+8GgYyYfFsS0I4RD9T9T9D1V0S,Ae Watan,Sonu Nigam,Raazi,89.0,2018-05-11
+2JjBbBiIvV3L7UG2W2W2G4Y3V,Naina Milaike,Sadhana Sargam,Saajan,92.0,1991-08-30
+3KkCcCjJwW4M8VH3X3X3H5Z4W,Mera Dil Bhi Kitna Pagal Hai,Kumar Sanu,Saajan,91.0,1991-08-30
+4LlDdDkKxX5N9WI4Y4Y4I6A5X,Bahut Pyar Karte Hain,Kumar Sanu,Saajan,90.0,1991-08-30
+5MmEeElLyY6O0XJ5Z5Z5J7B6Y,Dil Hai Ke Manta Nahin,Kumar Sanu,Dil Hai Ke Manta Nahin,93.0,1991-07-12
+6NnFfFmMzZ7P1YK6A6A6K8C7Z,Tu Pyar Hai Kisi Aur Ka,Kumar Sanu,Dil Hai Ke Manta Nahin,92.0,1991-07-12
+7OoGgGnNaA8Q2ZL7B7B7L9D8A,Jab Koi Baat,Kumar Sanu,Jurm,91.0,1990-10-12
+8PpHhHoObB9R3AM8C8C8M0E9B,Chitthi Aayi Hai,Pankaj Udhas,Naam,94.0,1986-02-14
+9QqIiIpPcC0S4BN9D9D9N1F0C,Ek Duje Ke Vaaste,Kumar Sanu,Dil To Pagal Hai,93.0,1997-10-31
+1RrJjJqQdD1T5CO0E0E0O2G1D,Are Re Are,Kumar Sanu,Dil To Pagal Hai,92.0,1997-10-31
+2SsKkKrReE2U6DP1F1F1P3H2E,Dil To Pagal Hai,Lata Mangeshkar,Dil To Pagal Hai,94.0,1997-10-31
+3TtLlLsSfF3V7EQ2G2G2Q4I3F,Pyar Kar,Lata Mangeshkar,Dil To Pagal Hai,91.0,1997-10-31
+4UuMmMtTgG4W8FR3H3H3R5J4G,Le Gayi,Asha Bhosle,Dil To Pagal Hai,90.0,1997-10-31
+5VvNnNuUhH5X9GS4I4I4S6K5H,Pehla Nasha,Udit Narayan,Jo Jeeta Wohi Sikandar,94.0,1992-05-22
+6WwOoOvViI6Y0HT5J5J5T7L6I,Ae Kali Kali Zulfon Wale,Udit Narayan,Baazigar,91.0,1993-11-12
+7XxPpPwWjJ7Z1IU6K6K6U8M7J,Bole Chudiyan,Udit Narayan,Kabhi Khushi Kabhie Gham,95.0,2001-12-14
+8YyQqQxXkK8A2JV7L7L7V9N8K,Deewana Tera,Udit Narayan,Saudagar,90.0,1991-10-11
+9ZzRrRyYlL9B3KW8M8M8W0O9L,Pehli Baar Mile Hain,Udit Narayan,Saajan,93.0,1991-08-30
+1AaBbSsSzZmM0C4LX9N9N9X1P0M,Chaand Chupa,Udit Narayan,Hum Dil De Chuke Sanam,92.0,1999-06-18
+2BbCcTtTaAnN1D5MY0O0O0Y2Q1N,Aankhon Ki Gustakhiyan,Kumar Sanu,Hum Dil De Chuke Sanam,91.0,1999-06-18
+3CcDdUuUbBoO2E6NZ1P1P1Z3R2O,Dholi Taro,Kavita Krishnamurthy,Hum Dil De Chuke Sanam,93.0,1999-06-18
+4DdEeVvVcCpP3F7OA2Q2Q2A4S3P,Nimbooda,Kavita Krishnamurthy,Hum Dil De Chuke Sanam,90.0,1999-06-18
+5EeFfWwWdDqQ4G8PB3R3R3B5T4Q,Tadap Tadap,KK,Hum Dil De Chuke Sanam,94.0,1999-06-18
+6FfGgXxXeErR5H9QC4S4S4C6U5R,Albela Sajan,Kavita Krishnamurthy,Hum Dil De Chuke Sanam,91.0,1999-06-18
+7GgHhYyYfFsS6I0RD5T5T5D7V6S,Man Mohana,Sadhana Sargam,Jodhaa Akbar,92.0,2008-02-15
+8HhIiZzZgGtT7J1SE6U6U6E8W7T,Khwaja Mere Khwaja,A.R. Rahman,Jodhaa Akbar,93.0,2008-02-15
+9IiJjAaAhHuU8K2TF7V7V7F9X8U,Azeem O Shaan Shahenshah,Sonu Nigam,Jodhaa Akbar,91.0,2008-02-15
+1JjKkBbBiIvV9L3UG8W8W8G0Y9V,Jashn-E-Bahaaraa,Javed Ali,Jodhaa Akbar,90.0,2008-02-15
+2KkLlCcCjJwW0M4VH9X9X9H1Z0W,Ranjha Ranjha,Rahat Fateh Ali Khan,Raavan,89.0,2010-06-18
+3LlMmDdDkKxX1N5WI0Y0Y0I2A1X,Behka,A.R. Rahman,Ghajini,90.0,2008-12-25
+4MmNnEeElLyY2O6XJ1Z1Z1J3B2Y,Guzarish,Javed Ali,Ghajini,89.0,2008-12-25
+5NnOoFfFmMzZ3P7YK2A2A2K4C3Z,Kaise Mujhe,Shreya Ghoshal,Ghajini,91.0,2008-12-25
+6OoPpGgGnNaA4Q8ZL3B3B3L5D4A,Latoo,Shreya Ghoshal,Ghajini,88.0,2008-12-25
+7PpQqHhHoObB5R9AM4C4C4M6E5B,Tere Bina,A.R. Rahman,Guru,92.0,2007-01-12
+8QqRrIiIpPcC6S0BN5D5D5N7F6C,Barso Re,Shreya Ghoshal,Guru,91.0,2007-01-12
+9RrSsJjJqQdD7T1CO6E6E6O8G7D,Mayya,Maryam Toller,Guru,90.0,2007-01-12
+1SsTtKkKrReE8U2DP7F7F7P9H8E,Ek Lo Ek Muft,Shreya Ghoshal,Guru,88.0,2007-01-12
+2TtUuLlLsSfF9V3EQ8G8G8Q0I9F,Jaage Hain,Udit Narayan,Guru,87.0,2007-01-12
+3UuVvMmMtTgG0W4FR9H9H9R1J0G,Chaiyya Chaiyya,Sukhwinder Singh,Dil Se,95.0,1998-08-21
+4VvWwNnNuUhH1X5GS0I0I0S2K1H,Dil Se Re,Anuradha Sriram,Dil Se,93.0,1998-08-21
+5WwXxOoOvViI2Y6HT1J1J1T3L2I,Jiya Jale,Lata Mangeshkar,Dil Se,92.0,1998-08-21
+6XxYyPpPwWjJ3Z7IU2K2K2U4M3J,Ae Ajnabi,Udit Narayan,Dil Se,91.0,1998-08-21
+7YyZzQqQxXkK4A8JV3L3L3V5N4K,Satrangi Re,Sonu Nigam,Dil Se,92.0,1998-08-21
+8ZzAaRrRyYlL5B9KW4M4M4W6O5L,Dholna,Wadali Brothers,Dil To Pagal Hai,94.0,1997-10-31
+9AaBbSsSzZmM6C0LX5N5N5X7P6M,Tu Mane Ya Na Mane,Wadali Brothers,Dil To Pagal Hai,90.0,1997-10-31
+1BbCcTtTaAnN7D1MY6O6O6Y8Q7N,Ik Onkar,Harshdeep Kaur,Rang De Basanti,93.0,2006-01-26
+2CcDdUuUbBoO8E2NZ7P7P7Z9R8O,Roobaroo,Naresh Iyer,Rang De Basanti,92.0,2006-01-26
+3DdEeVvVcCpP9F3OA8Q8Q8A0S9P,Luka Chuppi,Lata Mangeshkar,Rang De Basanti,91.0,2006-01-26
+4EeFfWwWdDqQ0G4PB9R9R9B1T0Q,Paathshala,A.R. Rahman,Rang De Basanti,90.0,2006-01-26
+5FfGgXxXeErR1H5QC0S0S0C2U1R,Khalbali,Mohit Chauhan,Rang De Basanti,89.0,2006-01-26
+6GgHhYyYfFsS2I6RD1T1T1D3V2S,Masti Ki Pathshala,Wadali Brothers,Rang De Basanti,88.0,2006-01-26
+7HhIiZzZgGtT3J7SE2U2U2E4W3T,Tu Bin Bataye,KK,Rang De Basanti,91.0,2006-01-26
+8IiJjAaAhHuU4K8TF3V3V3F5X4U,Fanaa,Kailash Kher,Yuva,90.0,2004-05-21
+9JjKkBbBiIvV5L9UG4W4W4G6Y5V,Dhakka Laga Bukka,A.R. Rahman,Yuva,88.0,2004-05-21
+1KkLlCcCjJwW6M0VH5X5X5H7Z6W,Dol Dol,Benny Dayal,Yuva,87.0,2004-05-21
+2LlMmDdDkKxX7N1WI6Y6Y6I8A7X,Kabhi Neem Neem,Udit Narayan,Yuva,89.0,2004-05-21
+3MmNnEeElLyY8O2XJ7Z7Z7J9B8Y,Baadal Pe Paon Hain,Hariharan,Chak De India,92.0,2007-08-10
+4NnOoFfFmMzZ9P3YK8A8A8K0C9Z,Chak De India,Sukhwinder Singh,Chak De India,95.0,2007-08-10
+5OoPpGgGnNaA0Q4ZL9B9B9L1D0A,Maahi Ve,Sunidhi Chauhan,Chak De India,91.0,2007-08-10
+6PpQqHhHoObB1R5AM0C0C0M2E1B,Badal Pe Paon,Hema Sardesai,Chak De India,88.0,2007-08-10
+7QqRrIiIpPcC2S6BN1D1D1N3F2C,Sattar Minute,Marianne D'Cruz,Chak De India,87.0,2007-08-10
+8RrSsJjJqQdD3T7CO2E2E2O4G3D,Jhankar Beats,Shaan,Jhankar Beats,89.0,2003-05-30
+9SsTtKkKrReE4U8DP3F3F3P5H4E,Tu Aashiqui Hai,KK,Jhankar Beats,90.0,2003-05-30
+1TtUuLlLsSfF5V9EQ4G4G4Q6I5F,Humko Humise Chura Lo,Udit Narayan,Mohabbatein,94.0,2000-10-27
+2UuVvMmMtTgG6W0FR5H5H5R7J6G,Pairon Mein Bandhan Hai,Udit Narayan,Mohabbatein,92.0,2000-10-27
+3VvWwNnNuUhH7X1GS6I6I6S8K7H,Soni Soni,Jaspinder Narula,Mohabbatein,91.0,2000-10-27
+4WwXxOoOvViI8Y2HT7J7J7T9L8I,Zinda Rehti Hain,Lata Mangeshkar,Mohabbatein,93.0,2000-10-27
+5XxYyPpPwWjJ9Z3IU8K8K8U0M9J,Aankhein Khuli,Lata Mangeshkar,Mohabbatein,90.0,2000-10-27
+6YyZzQqQxXkK0A4JV9L9L9V1N0K,Chalte Chalte,Alka Yagnik,Mohabbatein,92.0,2000-10-27
+7ZzAaRrRyYlL1B5KW0M0M0W2O1L,Jatt Di Pasand,Amrinder Gill,Jatt Di Pasand,89.0,2015-06-12
+8AaBbSsSzZmM2C6LX1N1N1X3P2M,Judaa,Amrinder Gill,Judaa,90.0,2011-08-05
+9BbCcTtTaAnN3D7MY2O2O2Y4Q3N,Khaab,Akhil,Khaab,92.0,2016-08-24
+1CcDdUuUbBoO4E8NZ3P3P3Z5R4O,Supne,Akhil,Supne,88.0,2014-09-19
+2DdEeVvVcCpP5F9OA4Q4Q4A6S5P,Life,Akhil,Life,87.0,2018-01-05
+3EeFfWwWdDqQ6G0PB5R5R5B7T6Q,Gani,Akhil,Gani,86.0,2020-07-17
+4FfGgXxXeErR7H1QC6S6S6C8U7R,Khaab Remix,Akhil,Khaab Remix,89.0,2017-04-28
+5GgHhYyYfFsS8I2RD7T7T7D9V8S,Filhaal,B Praak,Filhaal,95.0,2019-11-09
+6HhIiZzZgGtT9J3SE8U8U8E0W9T,Mann Bharrya,B Praak,Mann Bharrya,93.0,2017-04-21
+7IiJjAaAhHuU0K4TF9V9V9F1X0U,Qismat,B Praak,Qismat,94.0,2018-09-21
+8JjKkBbBiIvV1L5UG0W0W0G2Y1V,Baarish Ki Jaaye,B Praak,Baarish Ki Jaaye,91.0,2020-11-03
+9KkLlCcCjJwW2M6VH1X1X1H3Z2W,Filhaal 2,B Praak,Filhaal 2,92.0,2021-07-06
+1LlMmDdDkKxX3N7WI2Y2Y2I4A3X,Ranjha,B Praak,Shershaah,93.0,2021-08-12
+2MmNnEeElLyY4O8XJ3Z3Z3J5B4Y,Pachtaoge,B Praak,Pachtaoge,94.0,2019-08-23
+3NnOoFfFmMzZ5P9YK4A4A4K6C5Z,Teri Mitti,B Praak,Kesari,95.0,2019-03-21
+4OoPpGgGnNaA6Q0ZL5B5B5L7D6A,Kyon,B Praak,Kyon,90.0,2019-12-20
+5PpQqHhHoObB7R1AM6C6C6M8E7B,Masstaani,B Praak,Masstaani,88.0,2020-05-08
+6QqRrIiIpPcC8S2BN7D7D7N9F8C,Dil Tod Ke,B Praak,Dil Tod Ke,91.0,2020-10-13
+7RrSsJjJqQdD9T3CO8E8E8O0G9D,Besharam Bewaffa,B Praak,Besharam Bewaffa,92.0,2020-07-02
+8SsTtKkKrReE0U4DP9F9F9P1H0E,Saari Duniya Jala Denge,B Praak,Saari Duniya Jala Denge,89.0,2021-01-29
+9TtUuLlLsSfF1V5EQ0G0G0Q2I1F,Saiyaan Ji,Yo Yo Honey Singh,Saiyaan Ji,88.0,2014-01-10
+1UuVvMmMtTgG2W6FR1H1H1R3J2G,Morni,Jazzy B,Morni,87.0,2012-03-16
+2VvWwNnNuUhH3X7GS2I2I2S4K3H,Heer,Jazzy B,Heer,89.0,2006-05-19
+3WwXxOoOvViI4Y8HT3J3J3T5L4I,Romeo,Jazzy B,Romeo,86.0,2004-09-24
+4XxYyPpPwWjJ5Z9IU4K4K4U6M5J,Naag,Jazzy B,Naag,85.0,2003-07-11
+5YyZzQqQxXkK6A0JV5L5L5V7N6K,Maharaja,Jazzy B,Maharaja,88.0,2009-11-20
+6ZzAaRrRyYlL7B1KW6M6M6W8O7L,Soorma,Jazzy B,Soorma,87.0,2007-08-17
+7AaBbSsSzZmM8C2LX7N7N7X9P8M,Dil Luteya,Jazzy B,Dil Luteya,90.0,2014-06-13
+8BbCcTtTaAnN9D3MY8O8O8Y0Q9N,Jine Mera Dil Luteya,Jazzy B,Jine Mera Dil Luteya,92.0,2010-04-23
+9CcDdUuUbBoO0E4NZ9P9P9Z1R0O,Gallan Goriyan,Jazzy B,Gallan Goriyan,86.0,2005-12-09
+1DdEeVvVcCpP1F5OA0Q0Q0A2S1P,Rambo,Jazzy B,Rambo,85.0,2002-10-18
+2EeFfWwWdDqQ2G6PB1R1R1B3T2Q,Londono Patola,Jazzy B,Londono Patola,88.0,2013-09-27
